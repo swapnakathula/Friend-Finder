@@ -77,3 +77,9 @@ We use Express to handle routing.
    * The closest match will be the user with the least amount of difference.
    7. Once you've found the current user's most compatible friend, display the result as a modal pop-up.
    * The modal should display both the name and picture of the closest match. 
+   
+   ### Hosting on Heroku
+
+Now that we have a backend to our applications, we use Heroku for hosting. Please note that while **Heroku is free**, it will request credit card information if you have more than 5 applications at a time or are adding a database. 
+
+Please see [Heroku’s Account Verification Information](https://devcenter.heroku.com/articles/account-verification) for more details. 
